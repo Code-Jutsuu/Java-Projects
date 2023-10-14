@@ -5,10 +5,8 @@ This repository contains a collection of Java projects.
 
 ## Table of Contents
 
-- [Project 1: ProjectName1](#project-1-projectname1)
+- [Project 1:  Calculator](#project-1-projectname1)
   - [Description](#description)
-  - [How to Run](#how-to-run)
-  - [Usage](#usage)
 - [Project 2: ProjectName2](#project-2-projectname2)
   - [Description](#description)
   - [How to Run](#how-to-run)
